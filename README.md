@@ -53,7 +53,6 @@ This project uses the **OpenWeather API**.
 1. Create a free account at [OpenWeather](https://openweathermap.org/).
 2. Get your API key.
 3. Replace the key inside your `UserContext.js`:
-
    ```js
    const apiKey = "YOUR_API_KEY";
    ```
@@ -62,14 +61,8 @@ This project uses the **OpenWeather API**.
 
 You can deploy the app on:
 
-* [Vercel](https://vercel.com/)
-* [Netlify](https://www.netlify.com/)
-* [GitHub Pages](https://pages.github.com/)
+. [Vercel](https://vercel.com/)
+. [Netlify](https://www.netlify.com/)
+. [GitHub Pages](https://pages.github.com/)
 
----
-
-✍️ Developed by **Mohamed Shalaby**
-
----
-
-تحب أظبطلك الـ README كـ **ملف Markdown جاهز** (.md) وأرفعهولك هنا عشان تعمل له copy-paste مباشرة في `README.md` بتاع المشروع؟
+Developed by **Mohamed Shalaby**
